@@ -74,9 +74,9 @@ public class SwaggerConfig {
 
     private ApiInfo buildApiInf(){
         return new ApiInfoBuilder()
-                .title("聚资讯前台接口总览")
-                .termsOfServiceUrl("http://blog.csdn.net/u014231523网址链接")
-                .description("<a href=\"/static/api.html\" title=\"接口说明文档\" target=\"_blank\">接口说明文档</a>")
+                .title("****")
+                .termsOfServiceUrl("****")
+                .description("****")
                 .build();
 
     }
