@@ -33,3 +33,10 @@ Temporary Items
 
 # debug file
 _site
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
