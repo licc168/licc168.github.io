@@ -7,8 +7,8 @@ author:     licc
 header-img: img/post_bg_debug.png
 catalog: true
 tags:
-    - 算法
-    - java
+    - sublime
+    - evernote
 ---
 
 ## 安装插件
