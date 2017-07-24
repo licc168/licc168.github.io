@@ -12,13 +12,13 @@ tags:
 ---
 
 ## 安装插件
-  #### 安装markdown插件
+####  安装markdown插件
   - MarkdownEditing 
   - OmniMarkupPreviewer
  
   [以上两款插件详细安装方式参考资料](http://www.jianshu.com/p/335b7d1be39e)
   
-  #### 安装evernote插件
+####  安装evernote插件
    Shift+Ctrl+P > 输入pci  > evernote 安装
 ## 配置evernote 快捷键
 
