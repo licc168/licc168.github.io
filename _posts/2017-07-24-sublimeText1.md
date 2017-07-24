@@ -20,6 +20,20 @@ tags:
   
 ####  安装evernote插件
    Shift+Ctrl+P > 输入pci  > evernote 安装
+   
+## 配置evernote 用户信息
+   - **[获取印象笔记token](https://www.evernote.com/api/DeveloperToken.action)**
+   - 设置token信息
+   
+     Preferences -->Package Settings --> Evernote -->Settings User
+   
+     ```json
+     {
+      "noteStoreUrl": "***",
+      "token": "***"
+     }
+     ```
+     
 ## 配置evernote 快捷键
 
 Preferences--> Key Bindings-User
