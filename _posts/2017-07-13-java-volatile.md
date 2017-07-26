@@ -2,6 +2,8 @@
 layout:     post
 title:      java volatile学习笔记
 subtitle:   java volatile
+keyword:     java,volatile,并发
+description : java volatile学习笔记
 date:       2017-07-13
 author:     licc
 header-img: img/post_bg_debug.png

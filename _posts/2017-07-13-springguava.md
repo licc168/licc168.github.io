@@ -2,6 +2,8 @@
 layout:     post
 title:      spring 整合guava 实现异步监听
 subtitle:   spring+guava
+keyword:     spring,guava,异步监听
+description : spring 整合guava 实现异步监听
 date:       2017-07-13
 author:     licc
 header-img: img/post_bg_debug.png

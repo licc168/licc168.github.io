@@ -2,6 +2,8 @@
 layout:     post
 title:      团队规范
 subtitle:   团队规范
+keyword:     团队,java规范,sql规范
+description : 团队,java规范,sql规范
 date:       2017-07-11
 author:     licc
 header-img: img/post_bg_debug.png
