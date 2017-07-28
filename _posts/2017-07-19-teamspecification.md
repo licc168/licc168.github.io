@@ -15,7 +15,7 @@ tags:
 ---
 
 ## 相关资料
-- **[阿里巴巴Java开发手册(v1.2.0版)](https://yq.aliyun.com/attachment/download/?id=1651 )**
+- **[阿里巴巴Java开发手册(v1.2.0版)](https://pan.baidu.com/s/1skEhV0T )** 提取码：63sp
 - **[google checkStyle](https://github.com/licc168/checkstyle)**
 - **[RESTful API接口规范](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)**
 
