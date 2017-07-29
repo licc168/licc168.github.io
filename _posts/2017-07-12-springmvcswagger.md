@@ -2,6 +2,8 @@
 layout:     post
 title:      springmvc集成swagger2
 subtitle:   springmvc+swagger2
+keyword:     springmvc,spring,swagger
+description : springmvc集成swagger2
 date:       2017-07-12
 author:     licc
 header-img: img/post_bg_debug.png

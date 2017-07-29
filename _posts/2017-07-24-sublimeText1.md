@@ -2,6 +2,8 @@
 layout:     post
 title:      sublime3安装Evernote插件
 subtitle:   sublime3安装Evernote插件 支持markdown语法
+keyword:     sublime,sublime3安装Evernote插件,Evernote,markdown
+description : sublime3安装Evernote插件 支持markdown语法
 date:       2017-07-24
 author:     licc
 header-img: img/post_bg_debug.png
