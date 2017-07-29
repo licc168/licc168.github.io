@@ -32,7 +32,16 @@ tags:
 
    
    2. **设置token信息**
-    ![](https://www.iamle.com/wp-content/uploads/2014/11/20141101173120.png)
+    Preferences -->Package Settings --> Evernote -->Settings User
+      
+        ```json
+        {
+         "noteStoreUrl": "***",
+         "token": "***"
+        }
+        ```
+      
+   ![](https://www.iamle.com/wp-content/uploads/2014/11/20141101173120.png)
      
 ## 配置evernote 快捷键
 
