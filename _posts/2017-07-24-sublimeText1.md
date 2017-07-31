@@ -24,17 +24,24 @@ tags:
    Shift+Ctrl+P > 输入pci  > evernote 安装
    
 ## 配置evernote 用户信息
-   - **[获取印象笔记token](https://www.evernote.com/api/DeveloperToken.action)**
-   - 设置token信息
+  1. **获得evernote api接口 Developer Tokens**<br>
+   Preferences -> Package Settings ->  Evernote -> Reconfigure Authorization
+   会在浏览器中打开 https://www.evernote.com/api/DeveloperToken.action
+   如果是中国区 印象笔记用户请直接打开  https://app.yinxiang.com/api/DeveloperToken.action
+       
+
    
-     Preferences -->Package Settings --> Evernote -->Settings User
-   
-     ```json
-     {
-      "noteStoreUrl": "***",
-      "token": "***"
-     }
-     ```
+   2. **设置token信息**
+    Preferences -->Package Settings --> Evernote -->Settings User
+      
+        ```json
+        {
+         "noteStoreUrl": "***",
+         "token": "***"
+        }
+        ```
+      
+   ![](https://www.iamle.com/wp-content/uploads/2014/11/20141101173120.png)
      
 ## 配置evernote 快捷键
 
